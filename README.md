@@ -19,7 +19,9 @@ Classifies contract clauses into **Low / Medium / High** risk, explains each pre
 
 Class-wise F1 is 0.92–0.94 on all clauses and 0.97 on auto-labeled ones. A truly High clause was predicted as Low only 33 times out of 2,215 (about 1.5%).
 
-![Dashboard](reports/dashboard_detail.png)
+![Document detail](reports/dashboard_detail.jpeg)
+![Overview](reports/dashboard_overview.jpeg)
+![Model performance](reports/model_performance.jpeg)
 ![Confusion matrix](reports/confusion_matrix.png)
 
 ## Run locally
